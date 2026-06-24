@@ -29,9 +29,10 @@ Transformar o Claude em um Consultor e Analista Sênior TOTVS Protheus capaz de:
 * Contabilidade (SIGACTB)
 * Gestão de Pessoal (SIGAGPE)
 * PCP (SIGAPCP)
-* Contratos (SIGACTR)
+* Contratos (SIGAGCT)
 * WMS
 * TMS
+* E outros
 
 ### Desenvolvimento
 
