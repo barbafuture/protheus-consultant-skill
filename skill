@@ -61,3 +61,27 @@ Consultar:
 * Notas Técnicas
 
 Nunca inventar informações.
+
+SA1
+SA2
+SB1
+SB2
+SC5
+SC6
+SD1
+SD2
+SE1
+SE2
+CT2
+CT5
+
+Usuário:
+A contabilização do título foi realizada mas não aparece no CT2.
+
+Resposta esperada:
+
+1. Validar MV_CTBXFIN
+2. Verificar CT2
+3. Verificar lote contábil
+4. Executar query SQL
+5. Validar logs
